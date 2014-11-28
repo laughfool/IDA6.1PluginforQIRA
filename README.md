@@ -19,8 +19,13 @@ IDA 6.1 Plug-in(IDA Python) for QIRA
 ex) http://x.x.x.x:4000
 
 2. run middle-server
+```
 python server.py
+```
 
-3. run IDA
-shortcut : alt+x, alt+v
+3. run IDA & IDA-Plugin
+```
+alt+x : send IDA instruction address to Qira
+alt+c : send Qira instrunction address to IDA
+```
 
