@@ -9,10 +9,9 @@ IDA 6.1 Plug-in(IDA Python) for QIRA
 * IDA Python
 
 ###Installation
-```
-  mv i2q.py %IDA6.1%/Plugins/
-  mv i2q.py %IDA6.1%/Plugins/
-```
+* i2q.py -> %IDA6.1%/Plugins/
+* i2q.py -> %IDA6.1%/Plugins/
+* server.py
 
 ###Usage
 ####1. connect qira server using Chrome Browser
