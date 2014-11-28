@@ -16,7 +16,9 @@ IDA 6.1 Plug-in(IDA Python) for QIRA
 
 ###Usage
 1. connect qira server using Chrome Browser
+```
 ex) http://x.x.x.x:4000
+```
 
 2. run middle-server
 ```
